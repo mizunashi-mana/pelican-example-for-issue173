@@ -1,0 +1,4 @@
+/output/
+
+# for Python
+__pycache__/
